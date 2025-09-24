@@ -13,15 +13,17 @@ This project helps practice:
 
 ## Project Structure
 odin-recipes/
-├── index.html # Home page with links to all recipes
+├── index.html
+├── README.md
 ├── recipes/
-│ ├── lasagna.html # Lasagna recipe page
-│ ├── biryani.html # Biryani recipe page
-│ ├── kaalsoup.html # Kaal Soup recipe page
-│ └── images/
-│ ├── lasagna.jpg
-│ ├── biryani.jpg
-│ └── kaalsoup.jpg
+│   ├── lasagna.html
+│   ├── biryani.html
+│   ├── kaalsoup.html
+│   └── images/
+│       ├── lasagna.jpg
+│       ├── biryani.jpg
+│       └── kaalsoup.jpg
+
 
 
 ---

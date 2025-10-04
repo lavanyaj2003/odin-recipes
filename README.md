@@ -40,18 +40,6 @@ odin-recipes/
 
 ---
 
-## Preview
-
-### Lasagna
-![Lasagna](recipes/images/lasagna.jpg)
-
-### Biryani
-![Biryani](recipes/images/biryani.jpg)
-
-### Kaal Soup
-![Kaal Soup](recipes/images/kaalsoup.jpg)
-
----
 
 ## Future Improvements
 
